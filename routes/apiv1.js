@@ -69,6 +69,6 @@ exports.getWeather2 = function(req, res) {
 
 };
 router.get('/getWeather2', exports.getWeather2);
-*/
+
 
 exports.router = router;
